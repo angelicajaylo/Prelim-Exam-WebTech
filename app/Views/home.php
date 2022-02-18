@@ -57,9 +57,7 @@
 
                     <!-- Avatar -->
                     <div class="dropdown">
-                        <a href="https://github.com/angelicajaylo">
-                            <i class="fab fa-github"></i>
-                        </a>
+                        <a href="https://github.com/angelicajaylo"><i class="fab fa-github"></i></a>
 
                     </div>
                 </div>
@@ -70,9 +68,8 @@
         <!-- Navbar -->
         <!-- Background image -->
         <div class="p-5 text-center bg-image" style="
-      background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');
-      height: 400px;
-    ">
+      background-image: url('<?php echo base_url() ?>/assets/img/jaylo.png');
+      height: 100vh;">
             <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
                 <div class="d-flex justify-content-center align-items-center h-100">
                     <div class="text-white">
