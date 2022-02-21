@@ -50,19 +50,19 @@
                     <!-- Left links -->
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo base_url() ?>/home/index">Home</a>
+                            <a class="nav-link" href="<?php echo base_url() ?>/Mycontroller/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo base_url() ?>/home/about">About</a>
+                            <a class="nav-link" href="<?php echo base_url() ?>/Mycontroller/about">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo base_url() ?>/home/projects">Projects</a>
+                            <a class="nav-link" href="<?php echo base_url() ?>/Mycontroller/projects">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo base_url() ?>/home/experience">Experience</a>
+                            <a class="nav-link" href="<?php echo base_url() ?>/Mycontroller/experience">Certificates</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo base_url() ?>/home/contacts">Contact</a>
+                            <a class="nav-link" href="<?php echo base_url() ?>/Mycontroller/contacts">Contact</a>
                         </li>
                     </ul>
                     <!-- Left links -->

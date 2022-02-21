@@ -14,4 +14,18 @@ class Mycontroller extends BaseController
     {
         return view("about");
     }
+
+    public function projects()
+    {
+        return view("projects");
+    }
+
+    public function experience()
+    {
+        return view("experience");
+    }
+    public function contacts()
+    {
+        return view("contacts");
+    }
 }
