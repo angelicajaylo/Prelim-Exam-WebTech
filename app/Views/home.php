@@ -99,6 +99,10 @@
                             <!-- <span class="word">now</span> -->
                         </h1>
                         <a class="btn btn-outline-light btn-lg" href="<?php echo base_url(); ?>/Mycontroller/about">Know more about me <i class="fas fa-angle-double-right"></i></a>
+                        <p>
+                            <span class="word">“My journey was not over it was just beginning”</span>
+                            <span class="word d-block">-Aubrey Moore</span>
+                        </p>
                     </div>
                     <!-- <div class="text-white">
                         <h1 class="mb-3">Angelica Mae Jerao Jaylo</h1>
